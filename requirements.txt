@@ -1,0 +1,3 @@
+# To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
+awswrangler==2.13.0
+pg8000==1.22.1
